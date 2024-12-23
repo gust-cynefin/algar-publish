@@ -341,8 +341,250 @@ Gestão de Investimentos</documentation>
     <element identifier="id-a56503c6f8ed4e308427a994b3861ac4" xsi:type="CourseOfAction">
       <name xml:lang="pt">Incrementar Penetração de Mercado Através de uma Jornada Simples e Digital para o Cliente</name>
     </element>
+    <element identifier="id-677e15c02ddf4fff86191739eebfc83f" xsi:type="BusinessActor">
+      <name xml:lang="pt">Cliente</name>
+    </element>
+    <element identifier="id-356a40e094884398be6d0dc87d86ee09" xsi:type="BusinessCollaboration">
+      <name xml:lang="pt">Habilitador de Engenharia</name>
+      <documentation xml:lang="pt">## Propósito&#xD;
+&#xD;
+O propósito da área de Engenharia de Telecomunicações é projetar, implementar, otimizar e manter a infraestrutura de rede e sistemas de comunicação da empresa. Seu objetivo é garantir a excelência técnica, a inovação contínua e a eficiência operacional da rede de telecomunicações, permitindo a entrega de serviços de alta qualidade aos clientes.&#xD;
+&#xD;
+## Estratégia&#xD;
+&#xD;
+A estratégia desta área deve focar em:&#xD;
+&#xD;
+1. Desenvolver e implementar soluções de rede avançadas, como:  tecnologias 5G, fibra óptica e redes definidas por software (SDN).&#xD;
+2. Otimizar continuamente a infraestrutura de rede para melhorar o desempenho e reduzir custos.&#xD;
+3. Colaborar com fornecedores e parceiros tecnológicos para adotar as melhores práticas e tecnologias emergentes.&#xD;
+4. Implementar soluções de automação e inteligência artificial para melhorar a eficiência operacional.&#xD;
+5. Garantir a segurança e a resiliência da infraestrutura de rede.&#xD;
+6. Alinhar os projetos de engenharia com as necessidades de negócio e as demandas do mercado.&#xD;
+&#xD;
+## Métricas de KPIs&#xD;
+&#xD;
+As principais métricas de KPIs para esta área incluem:&#xD;
+&#xD;
+1. Qualidade de Serviço (QoS) e Qualidade de Experiência (QoE)&#xD;
+2. Taxa de sucesso de chamadas e conexões de dados&#xD;
+3. Latência e velocidade de rede&#xD;
+4. Tempo médio entre falhas (MTBF) e tempo médio para reparo (MTTR)&#xD;
+5. Eficiência espectral e utilização de recursos de rede&#xD;
+6. Redução de custos operacionais através de otimizações de rede&#xD;
+7. Tempo de implementação de novos serviços e tecnologias&#xD;
+8. Índice de disponibilidade da rede&#xD;
+9. Número de inovações ou patentes geradas&#xD;
+10. Eficiência energética da infraestrutura de rede&#xD;
+&#xD;
+## Perfil da Liderança&#xD;
+&#xD;
+O líder ideal para esta área deve possuir:&#xD;
+&#xD;
+1. Sólida formação em engenharia de telecomunicações ou áreas afins&#xD;
+2. Visão estratégica e capacidade de antecipar tendências tecnológicas no setor de telecomunicações&#xD;
+3. Habilidade de gerenciar projetos complexos de infraestrutura de rede&#xD;
+4. Capacidade de liderar equipes técnicas altamente especializadas&#xD;
+5. Forte compreensão dos aspectos comerciais e regulatórios do setor de telecomunicações&#xD;
+6. Habilidade para colaborar com outras áreas da empresa e parceiros externos&#xD;
+7. Capacidade de tomar decisões baseadas em dados e análises técnicas&#xD;
+8. Mentalidade inovadora e orientada para soluções&#xD;
+&#xD;
+## Perfil de Equipe&#xD;
+&#xD;
+A equipe deve ser composta por profissionais com:&#xD;
+&#xD;
+1. Formação em engenharia de telecomunicações, elétrica ou áreas relacionadas&#xD;
+2. Conhecimento profundo em tecnologias de rede, como 5G, LTE, fibra óptica, e protocolos de comunicação&#xD;
+3. Habilidades em planejamento e otimização de redes&#xD;
+4. Experiência em ferramentas de simulação e análise de rede&#xD;
+5. Conhecimento em segurança de rede e cibersegurança&#xD;
+6. Habilidades em programação e automação de rede&#xD;
+7. Capacidade de trabalhar em projetos multidisciplinares&#xD;
+8. Disposição para aprendizado contínuo e adaptação a novas tecnologias&#xD;
+9. Habilidades analíticas e de resolução de problemas complexos&#xD;
+10. Compreensão das implicações comerciais e operacionais das decisões de engenharia</documentation>
+    </element>
+    <element identifier="id-5a2aaa608e244abe9dbcc04189fc1d69" xsi:type="BusinessCollaboration">
+      <name xml:lang="pt">Habilitador de Tecnologia</name>
+      <documentation xml:lang="pt">*Propósito&#xD;
+Garantir o funcionamento eficiente e contínuo da infraestrutura tecnológica da empresa, fornecendo suporte às demais áreas e contribuindo para a estabilidade e inovação dos serviços digitais. Seu objetivo é assegurar que todas as operações tecnológicas estejam funcionando de forma eficaz, apoiando as decisões estratégicas e a implementação de novas tecnologias. Apoiar na escolha e e aquisição de ferramentas ou sistemas de tecnologia, levando em consideração o parque tecnologico atual na empresa. &#xD;
+&#xD;
+*Estratégia&#xD;
+Implementar e gerenciar soluções tecnológicas que atendam às necessidades de negócios dos usuários internos e externos.&#xD;
+Adotar uma abordagem proativa na identificação e resolução de problemas, minimizando interrupções nos serviços.&#xD;
+Alinhar as operações de TI com os objetivos e metas do negócio.&#xD;
+Investir em tecnologias modernas e capacitação contínua da equipe.&#xD;
+Definir e implementar práticas de DevSecOps e AIOps.&#xD;
+Desenvolver uma visão holística das operações de telecomunicações, facilitando a identificação e resolução rápida de problemas.&#xD;
+Garantir e zelar pela continua modernização do parque tecnologico. &#xD;
+Prover infraestrutura de dadaos para suporte a tomada de decisão.&#xD;
+&#xD;
+*Métricas de KPIs&#xD;
+Tempo Médio de Atendimento (TMA)&#xD;
+First Call Resolution (FCR)&#xD;
+Service Level Agreement (SLA)&#xD;
+Índice de Disponibilidade do Sistema&#xD;
+Tempo Médio entre Falhas&#xD;
+Tempo Médio para Reparo&#xD;
+Custo por Ticket&#xD;
+Retorno sobre o Investimento (ROI) em projetos tecnológicos&#xD;
+Tempo de entrega de projetos&#xD;
+Controle dos custos de TI vs. Receita&#xD;
+&#xD;
+*Perfil da Liderança&#xD;
+Visão estratégica e capacidade de alinhar as operações de TI com os objetivos de negócio.&#xD;
+Habilidade de comunicação eficiente com equipes técnicas e outras áreas da empresa.&#xD;
+Capacidade de gerenciar recursos e otimizar custos.&#xD;
+Conhecimento profundo em gestão de infraestrutura de TI e novas tecnologias.&#xD;
+Habilidade para motivar e desenvolver talentos na equipe.&#xD;
+Capacidade de tomar decisões baseadas em dados e métricas de desempenho.&#xD;
+Experiência em implementação de melhores práticas de ITIL e gestão de serviços de TI.&#xD;
+&#xD;
+*Perfil de Equipe&#xD;
+Forte base técnica em áreas como infraestrutura de TI, redes, segurança, dados, cloud e sistemas.&#xD;
+Habilidades de resolução de problemas e pensamento crítico.&#xD;
+Capacidade de trabalhar em equipe e colaborar com diferentes áreas da empresa.&#xD;
+Conhecimento em metodologias ágeis e gestão de projetos.&#xD;
+Habilidades em análise de dados e uso de ferramentas de monitoramento de desempenho.&#xD;
+Compreensão do impacto da tecnologia nos resultados da empresa.&#xD;
+Disposição para aprendizado contínuo e adaptação a novas tecnologias.&#xD;
+Habilidade em automatização de processos e implementação de soluções.</documentation>
+    </element>
+    <element identifier="id-849588d30cb7436d84ed541187cf5f3c" xsi:type="BusinessCollaboration">
+      <name xml:lang="pt">B 2 C</name>
+      <documentation xml:lang="pt">Propósito: &#xD;
+Estratégia: &#xD;
+Métricas de KPIs:&#xD;
+Perfil da Liderança (ASHEN): &#xD;
+Perfil de Equipe (ASHEN):</documentation>
+    </element>
+    <element identifier="id-9475d1d5a5d24f33a4971ce89ff91125" xsi:type="BusinessCollaboration">
+      <name xml:lang="pt">Habilitador Funções Corporativas</name>
+      <documentation xml:lang="pt">Propósito: &#xD;
+Estratégia: &#xD;
+Métricas de KPIs:&#xD;
+Perfil da Liderança (ASHEN): &#xD;
+Perfil de Equipe (ASHEN):</documentation>
+    </element>
+    <element identifier="id-969d3106e2a447d181d22f6e118d24f5" xsi:type="BusinessCollaboration">
+      <name xml:lang="pt">Segmento Visão Cliente</name>
+      <documentation xml:lang="pt">Propósito: &#xD;
+Estratégia: &#xD;
+Métricas de KPIs:&#xD;
+Perfil da Liderança (ASHEN): &#xD;
+Perfil de Equipe (ASHEN):</documentation>
+    </element>
+    <element identifier="id-9b753a020daa40ff9c249bf13dbadacb" xsi:type="BusinessCollaboration">
+      <name xml:lang="pt">B 2 B</name>
+      <documentation xml:lang="pt">Propósito: &#xD;
+Estratégia: &#xD;
+Métricas de KPIs:&#xD;
+Perfil da Liderança (ASHEN): &#xD;
+Perfil de Equipe (ASHEN):</documentation>
+    </element>
+    <element identifier="id-ab05a683845c4ddca3280180fbe26363" xsi:type="BusinessCollaboration">
+      <name xml:lang="pt">Operações</name>
+      <documentation xml:lang="pt">Propósito: &#xD;
+Estratégia: &#xD;
+Métricas de KPIs:&#xD;
+Perfil da Liderança (ASHEN): &#xD;
+Perfil de Equipe (ASHEN):</documentation>
+    </element>
+    <element identifier="id-df58c07d61224423a6eede87d774651a" xsi:type="BusinessCollaboration">
+      <name xml:lang="pt">Produtos Digitais e Telecom</name>
+      <documentation xml:lang="pt">## Propósito&#xD;
+&#xD;
+O propósito desta área é gerenciar todo o ciclo de vida dos produtos digitais e de telecomunicações, desde a concepção até a descontinuação. Seu objetivo é criar, desenvolver e manter produtos (proprios ou com parcerias) que atendam às necessidades do mercado, garantindo a competitividade da empresa e a satisfação dos clientes.&#xD;
+&#xD;
+## Estratégia&#xD;
+&#xD;
+1. Implementar metodologias para acelerar o desenvolvimento e lançamento de produtos, como Agilidade, Design Thinking, Lean e Gestão de Produtos. &#xD;
+2. Adotar uma abordagem centrada no cliente para o desenvolvimento de produtos&#xD;
+3. Integrar análise de dados e feedback do cliente no processo de desenvolvimento&#xD;
+4. Estabelecer parcerias estratégicas com fornecedores de tecnologia e startups inovadoras&#xD;
+5. Promover a inovação contínua utilizando técnicas como ideação e prototipagem rápida&#xD;
+6. Alinhar o portfólio de produtos com as tendências de mercado e objetivos estratégicos da empresa&#xD;
+7. Definir e desenvolver a experiência do usuário (UX)&#xD;
+&#xD;
+## Métricas de KPIs&#xD;
+&#xD;
+1. Time to Market (tempo de lançamento de novos produtos)&#xD;
+2. Taxa de adoção de novos produtos&#xD;
+3. Net Promoter Score (NPS) dos produtos&#xD;
+4. Receita gerada por produto&#xD;
+5. Custo de aquisição de cliente (CAC) por produto&#xD;
+6. Lifetime Value (LTV) dos clientes por produto&#xD;
+7. Churning&#xD;
+8. Taxa de retenção de clientes&#xD;
+9. Retorno sobre o investimento (ROI) em produtos&#xD;
+10. Market Share do produto&#xD;
+&#xD;
+## Perfil da Liderança&#xD;
+&#xD;
+1. Visão estratégica e compreensão profunda do mercado de telecomunicações e tecnologia&#xD;
+2. Experiência em gestão de portfólio de produtos digitais e telco&#xD;
+3. Habilidade para liderar equipes multidisciplinares e fomentar a inovação&#xD;
+4. Forte orientação para resultados e capacidade de tomar decisões baseadas em dados&#xD;
+5. Conhecimento em metodologias ágeis, lean startup e design thinking&#xD;
+6. Habilidade de comunicação eficaz com stakeholders internos e externos&#xD;
+7. Capacidade de equilibrar visão de longo prazo com entregas de curto prazo&#xD;
+8. Experiência em transformação digital e adoção de novas tecnologias&#xD;
+&#xD;
+## Perfil de Equipe&#xD;
+&#xD;
+Claro! Vamos reformular o perfil da equipe para a área responsável pelo ciclo de vida de desenvolvimento de produtos digitais e de telecomunicações, focando em soft e hard skills, em vez de papéis específicos do mercado.&#xD;
+&#xD;
+## Perfil de Equipe&#xD;
+&#xD;
+### Hard Skills&#xD;
+&#xD;
+- Conhecimento Técnico em Telecomunicações: Compreensão das tecnologias de telecomunicações, como 5G, IoT e redes definidas por software (SDN).&#xD;
+  &#xD;
+- Desenvolvimento de Software: Habilidade em linguagens de programação relevantes (ex: Python, Java, JavaScript) e frameworks modernos (ex: React, Angular).&#xD;
+  &#xD;
+- Análise de Dados: Capacidade de trabalhar com ferramentas de análise e visualização de dados (ex: SQL, Tableau, Power BI) para extrair insights e tomar decisões baseadas em dados.&#xD;
+  &#xD;
+- Gestão de Projetos: Conhecimento em metodologias ágeis (Scrum, Kanban) e ferramentas de gestão de projetos (ex: Jira, Trello).&#xD;
+  &#xD;
+- Design e Prototipagem: Habilidade em ferramentas de design e prototipagem (ex: Figma, Adobe XD) para criar interfaces intuitivas e centradas no usuário.&#xD;
+  &#xD;
+- Segurança da Informação: Conhecimento sobre práticas e ferramentas de segurança digital para proteger dados e sistemas.&#xD;
+&#xD;
+### Soft Skills&#xD;
+&#xD;
+- Comunicação Eficaz: Capacidade de articular ideias claramente e colaborar com diferentes equipes e stakeholders.&#xD;
+  &#xD;
+- Pensamento Crítico: Habilidade para analisar problemas complexos, identificar soluções viáveis e tomar decisões informadas.&#xD;
+  &#xD;
+- Adaptabilidade: Flexibilidade para se ajustar a mudanças rápidas nas demandas do mercado ou nas tecnologias disponíveis.&#xD;
+  &#xD;
+- Trabalho em Equipe: Capacidade de colaborar efetivamente com colegas de diferentes disciplinas e backgrounds.&#xD;
+  &#xD;
+- Criatividade e Inovação: Disposição para pensar fora da caixa e propor novas ideias que possam melhorar produtos ou processos.&#xD;
+  &#xD;
+- Orientação ao Cliente: Foco em entender as necessidades dos clientes e desenvolver soluções que atendam às suas expectativas.&#xD;
+  &#xD;
+- Gestão do Tempo: Habilidade para priorizar tarefas e gerenciar prazos em um ambiente dinâmico.</documentation>
+    </element>
+    <element identifier="id-e8f983d43c684252ae1991025303a702" xsi:type="BusinessCollaboration">
+      <name xml:lang="pt">Habilitador de Especielidades</name>
+      <documentation xml:lang="pt">Propósito: &#xD;
+Estratégia: &#xD;
+Métricas de KPIs:&#xD;
+Perfil da Liderança (ASHEN): &#xD;
+Perfil de Equipe (ASHEN):</documentation>
+    </element>
+    <element identifier="id-69d71ba273cc4f329d0840266cf20941" xsi:type="Driver">
+      <name xml:lang="pt">Driver</name>
+    </element>
     <element identifier="id-bad5f2c3e591466b8d80acb29c3aad80" xsi:type="Outcome">
       <name xml:lang="pt">Ser a Empresa mais Admirada do Setor com foco Absoluto em Clientes</name>
+    </element>
+    <element identifier="id-212008ead5bc4aafb84a60f4ddeddfc0" xsi:type="Requirement">
+      <name xml:lang="pt">Requirement</name>
+    </element>
+    <element identifier="id-2805beddeee64a3da78055604d5bdab0" xsi:type="Stakeholder">
+      <name xml:lang="pt">Stakeholder</name>
     </element>
     <element identifier="id-1add793ac74d4984a1db0c74af9f4975" xsi:type="Principle">
       <name xml:lang="pt">Crescimento Sustentável</name>
@@ -477,12 +719,14 @@ Gestão de Investimentos</documentation>
     <relationship identifier="id-22f4a3a81350498eb3a4864ea4752266" source="id-20530b1ea5834eeeb3e2b439f420cc4f" target="id-ea1ca11f8bce4f58aaa5553db2348852" xsi:type="Specialization" />
     <relationship identifier="id-236c682b4c204def844ad85701348433" source="id-2cf92ea525ea40348ad1c7bcd0491470" target="id-8b2482e2cdf54acaa98ceda977bb3f8d" xsi:type="Specialization" />
     <relationship identifier="id-24facb13ca2b48d0a3c7252d7e73744c" source="id-45ce2e7deb0f4e9ab76733c16861ffca" target="id-8b2482e2cdf54acaa98ceda977bb3f8d" xsi:type="Specialization" />
+    <relationship identifier="id-254fbb4127294df6a99487c7cfd91786" source="id-849588d30cb7436d84ed541187cf5f3c" target="id-969d3106e2a447d181d22f6e118d24f5" xsi:type="Specialization" />
     <relationship identifier="id-265c1ba0ed514b599d30f3f49382ddb8" source="id-ce79e9565c7d42a8a6580eff2f0141cb" target="id-72fb4bdf63d94b49902bbcbcbf13e839" xsi:type="Specialization" />
     <relationship identifier="id-28f80e24ab0c496e952656382fda81b1" source="id-73ee2dd8cd27487ca9f87991d240100e" target="id-8b2482e2cdf54acaa98ceda977bb3f8d" xsi:type="Specialization" />
     <relationship identifier="id-3018201787924791a5d49574bcc3270c" source="id-001a336a2cf5472ba25f0479f6f01ce5" target="id-9ea25891afed41fe80905517d638af81" xsi:type="Specialization" />
     <relationship identifier="id-30e2335bf657475787d4253bf83af178" source="id-3131e132927f4350a0300df6e368249a" target="id-c5ff01235bf84568b9c36684e3987711" xsi:type="Specialization" />
     <relationship identifier="id-31f67fc824a34b8790cbf7ac6a4ab056" source="id-3157e96fef8e4ed1a77fd6a9a2ad8657" target="id-8e89f975545b4a7f83f3906d80885717" xsi:type="Specialization" />
     <relationship identifier="id-324c5edc1b27460bb8d63b7cbfdab1ce" source="id-c3963f4e222d4bb6885b67ceb7a2409f" target="id-aced1ebdf0764d83815b990dba519495" xsi:type="Specialization" />
+    <relationship identifier="id-325c0f22e4cb496ba1c537de0bebcbae" source="id-9b753a020daa40ff9c249bf13dbadacb" target="id-969d3106e2a447d181d22f6e118d24f5" xsi:type="Specialization" />
     <relationship identifier="id-3516c0e45fcc444aabc2ebf1ba8fec21" source="id-939c647a93144f5eb738f981101bc11c" target="id-8e89f975545b4a7f83f3906d80885717" xsi:type="Specialization" />
     <relationship identifier="id-35fcf191284e4b2dbffa036134150475" source="id-98873a7f1fa34956bc863e404c75cace" target="id-8f0d93e337ef439daa9020bc5e687660" xsi:type="Specialization" />
     <relationship identifier="id-3802079a42924e8eb991d74886e2ac6d" source="id-fd02beed58e342d3923955f2a5a913da" target="id-1da25fbeaede4e8fa5e9b435262ac13b" xsi:type="Specialization" />
@@ -673,6 +917,19 @@ Gestão de Investimentos</documentation>
       </item>
     </item>
     <item>
+      <label xml:lang="pt">Business</label>
+      <item identifierRef="id-677e15c02ddf4fff86191739eebfc83f" />
+      <item identifierRef="id-356a40e094884398be6d0dc87d86ee09" />
+      <item identifierRef="id-5a2aaa608e244abe9dbcc04189fc1d69" />
+      <item identifierRef="id-849588d30cb7436d84ed541187cf5f3c" />
+      <item identifierRef="id-9475d1d5a5d24f33a4971ce89ff91125" />
+      <item identifierRef="id-969d3106e2a447d181d22f6e118d24f5" />
+      <item identifierRef="id-9b753a020daa40ff9c249bf13dbadacb" />
+      <item identifierRef="id-ab05a683845c4ddca3280180fbe26363" />
+      <item identifierRef="id-df58c07d61224423a6eede87d774651a" />
+      <item identifierRef="id-e8f983d43c684252ae1991025303a702" />
+    </item>
+    <item>
       <label xml:lang="pt">Motivation</label>
       <item>
         <label xml:lang="pt">Valores</label>
@@ -704,7 +961,10 @@ Gestão de Investimentos</documentation>
         <item identifierRef="id-de65fb0981034b9887cc3e010e11afbd" />
         <item identifierRef="id-f3521648e68c454fa6db9e272b246abb" />
       </item>
+      <item identifierRef="id-69d71ba273cc4f329d0840266cf20941" />
       <item identifierRef="id-bad5f2c3e591466b8d80acb29c3aad80" />
+      <item identifierRef="id-212008ead5bc4aafb84a60f4ddeddfc0" />
+      <item identifierRef="id-2805beddeee64a3da78055604d5bdab0" />
     </item>
     <item>
       <label xml:lang="pt">Other</label>
@@ -762,12 +1022,14 @@ Gestão de Investimentos</documentation>
       <item identifierRef="id-22f4a3a81350498eb3a4864ea4752266" />
       <item identifierRef="id-236c682b4c204def844ad85701348433" />
       <item identifierRef="id-24facb13ca2b48d0a3c7252d7e73744c" />
+      <item identifierRef="id-254fbb4127294df6a99487c7cfd91786" />
       <item identifierRef="id-265c1ba0ed514b599d30f3f49382ddb8" />
       <item identifierRef="id-28f80e24ab0c496e952656382fda81b1" />
       <item identifierRef="id-3018201787924791a5d49574bcc3270c" />
       <item identifierRef="id-30e2335bf657475787d4253bf83af178" />
       <item identifierRef="id-31f67fc824a34b8790cbf7ac6a4ab056" />
       <item identifierRef="id-324c5edc1b27460bb8d63b7cbfdab1ce" />
+      <item identifierRef="id-325c0f22e4cb496ba1c537de0bebcbae" />
       <item identifierRef="id-3516c0e45fcc444aabc2ebf1ba8fec21" />
       <item identifierRef="id-35fcf191284e4b2dbffa036134150475" />
       <item identifierRef="id-3802079a42924e8eb991d74886e2ac6d" />
@@ -845,6 +1107,13 @@ Gestão de Investimentos</documentation>
     <item>
       <label xml:lang="pt">Views</label>
       <item>
+        <label xml:lang="pt">Negócios</label>
+        <item>
+          <label xml:lang="pt">Vocações</label>
+          <item identifierRef="id-13273dca54c04f63a49e0c7bce07391e" />
+        </item>
+      </item>
+      <item>
         <label xml:lang="pt">Capacidades</label>
         <item identifierRef="id-efd85f61b5374df0b9b7aa4e76dfbe71" />
       </item>
@@ -858,6 +1127,126 @@ Gestão de Investimentos</documentation>
   </organizations>
   <views>
     <diagrams>
+      <view identifier="id-13273dca54c04f63a49e0c7bce07391e" xsi:type="Diagram">
+        <name xml:lang="pt">Modelo de Vocações</name>
+        <node identifier="id-f6c05ad856b84f06a236afd9b968aca8" elementRef="id-356a40e094884398be6d0dc87d86ee09" xsi:type="Element" x="348" y="396" w="265" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-2be11d71ad1343a48024276c1a6ce252" elementRef="id-ab05a683845c4ddca3280180fbe26363" xsi:type="Element" x="348" y="330" w="529" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-0736af521a054b6db96cfc598b945af3" elementRef="id-df58c07d61224423a6eede87d774651a" xsi:type="Element" x="348" y="264" w="529" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-bd843217ab2c4152a74a10d7845989b6" elementRef="id-677e15c02ddf4fff86191739eebfc83f" xsi:type="Element" x="348" y="84" w="529" h="61">
+          <style>
+            <fillColor r="255" g="255" b="181" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-c8e938d35ab2479da1c6bfda1ea159cb" elementRef="id-5a2aaa608e244abe9dbcc04189fc1d69" xsi:type="Element" x="624" y="396" w="253" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-e79c32b339c14578949a9040d0054da8" elementRef="id-9475d1d5a5d24f33a4971ce89ff91125" xsi:type="Element" x="888" y="84" w="109" h="331">
+          <style>
+            <fillColor r="255" g="255" b="181" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-4d95219fe7a24016a11cd12d80d850b7" elementRef="id-e8f983d43c684252ae1991025303a702" xsi:type="Element" x="1008" y="84" w="120" h="331">
+          <style>
+            <fillColor r="255" g="255" b="181" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-91f74a9a591a4c89b2bdf089b51045c7" elementRef="id-212008ead5bc4aafb84a60f4ddeddfc0" xsi:type="Element" x="108" y="228" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-1585e1eb55824f069a90b9cd00eec434" elementRef="id-69d71ba273cc4f329d0840266cf20941" xsi:type="Element" x="132" y="432" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-b014e3915f834e678d4e48a2f65e9db9" elementRef="id-2805beddeee64a3da78055604d5bdab0" xsi:type="Element" x="144" y="360" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-c35d0b728910422fa6e94d8d0e24d850" elementRef="id-969d3106e2a447d181d22f6e118d24f5" xsi:type="Element" x="348" y="156" w="529" h="85">
+          <style>
+            <fillColor r="255" g="255" b="181" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+          <node identifier="id-c4ffce21e2134037b7dbeae5d4d9c4b3" elementRef="id-849588d30cb7436d84ed541187cf5f3c" xsi:type="Element" x="360" y="180" w="217" h="43">
+            <style>
+              <fillColor r="255" g="255" b="181" a="100" />
+              <lineColor r="92" g="92" b="92" a="100" />
+              <font name="Segoe UI" size="9">
+                <color r="0" g="0" b="0" />
+              </font>
+            </style>
+          </node>
+          <node identifier="id-555a0c87db634125aa0543ab6e946fe8" elementRef="id-9b753a020daa40ff9c249bf13dbadacb" xsi:type="Element" x="588" y="180" w="277" h="43">
+            <style>
+              <fillColor r="255" g="255" b="181" a="100" />
+              <lineColor r="92" g="92" b="92" a="100" />
+              <font name="Segoe UI" size="9">
+                <color r="0" g="0" b="0" />
+              </font>
+            </style>
+          </node>
+        </node>
+      </view>
       <view identifier="id-efd85f61b5374df0b9b7aa4e76dfbe71" xsi:type="Diagram" viewpoint="Capability Map">
         <name xml:lang="pt">Capacidades de Negocio</name>
         <node identifier="id-ffcee28989e94758a9369780bb962c2c" elementRef="id-6e0e2921feba4602bf4fc7688444bef7" xsi:type="Element" x="0" y="30" w="457" h="355">
@@ -2246,7 +2635,7 @@ Gestão de Investimentos</documentation>
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <node identifier="id-c746fa0238b74124b1b4396e1cfe1a4c" xsi:type="Label" x="360" y="276" w="157" h="55">
+          <node identifier="id-c746fa0238b74124b1b4396e1cfe1a4c" xsi:type="Label" x="384" y="276" w="157" h="55">
             <label xml:lang="pt">Direcionadores Estratégicos</label>
             <style>
               <fillColor r="220" g="235" b="235" a="100" />
@@ -2289,6 +2678,17 @@ Gestão de Investimentos</documentation>
             </style>
             <viewRef ref="id-efd85f61b5374df0b9b7aa4e76dfbe71" />
           </node>
+          <node identifier="id-791f96c9ff374b14be8fdf0918519069" xsi:type="Label" x="384" y="432" w="157" h="55">
+            <label xml:lang="pt">Modelo de Vocações</label>
+            <style>
+              <fillColor r="220" g="235" b="235" a="100" />
+              <lineColor r="92" g="92" b="92" a="100" />
+              <font name="Segoe UI Semibold" size="12">
+                <color r="0" g="0" b="0" />
+              </font>
+            </style>
+            <viewRef ref="id-13273dca54c04f63a49e0c7bce07391e" />
+          </node>
         </node>
         <node identifier="id-72cf08386451499d9898abd716b1d79a" xsi:type="Label" x="132" y="72" w="1140" h="72">
           <label xml:lang="pt">Índice da Arquitetura Corporativa</label>
@@ -2319,7 +2719,7 @@ Gestão de Investimentos</documentation>
             </font>
           </style>
         </node>
-        <node identifier="id-7deef044b9c7431e93d3d0f58e82d1a3" xsi:type="Label" x="132" y="552" w="157" h="37">
+        <node identifier="id-7deef044b9c7431e93d3d0f58e82d1a3" xsi:type="Label" x="144" y="540" w="157" h="37">
           <style>
             <fillColor r="255" g="255" b="255" a="0" />
             <lineColor r="92" g="92" b="92" a="0" />
@@ -2335,6 +2735,23 @@ Gestão de Investimentos</documentation>
               <color r="0" g="0" b="0" />
             </font>
           </style>
+        </connection>
+        <connection identifier="id-a4af42991c9e439faa06a2b949a79ee0" xsi:type="Line" source="id-0ce30463af86436e9557f2f5c3021aff" target="id-791f96c9ff374b14be8fdf0918519069">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-b0115e6c2b6947db8a48b2e33a3202ff" xsi:type="Line" source="id-0ce30463af86436e9557f2f5c3021aff" target="id-e005a303a7024a849eb5a7be1ef4e452">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+          <bendpoint x="240" y="372" />
         </connection>
       </view>
     </diagrams>
